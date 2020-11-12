@@ -30,8 +30,8 @@ tensorboard --logdir=tb
 
 ## without "malicious" x
 
-![Without X](images/v0)
+![Without X](images/v0.png)
 
 ## with "malicious" x
 
-![With X](images/v1)
+![With X](images/v1.png)
