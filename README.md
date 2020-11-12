@@ -21,3 +21,17 @@ Run Treatment Experiments
 python test_malicious_x.py --seed=0 -x
 ```
 
+View Results
+```bash
+tensorboard --logdir=tb
+```
+
+# Results:
+
+## without "malicious" x
+
+![Without X](images/v0)
+
+## with "malicious" x
+
+![With X](images/v1)
